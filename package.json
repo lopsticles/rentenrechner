@@ -1,0 +1,21 @@
+{
+  "name": "rentenrechner",
+  "version": "1.0.0",
+  "description": "Hochrechnung der gesetzlichen Rente, Rentenlücke netto, Vergleich Renteneintritt 63/65/67, Erwerbsminderung und Hinterbliebene",
+  "scripts": {
+    "test": "node test/testmatrix.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "homepage": "https://rentenrechner.lopsticles.com/",
+  "keywords": [
+    "rente",
+    "rentenrechner",
+    "gesetzliche-rente",
+    "rentenluecke",
+    "erwerbsminderungsrente",
+    "sgb-vi"
+  ],
+  "license": "MIT"
+}
